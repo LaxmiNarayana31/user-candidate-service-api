@@ -1,6 +1,6 @@
 -- MySQL dump 10.13  Distrib 8.0.37, for Win64 (x86_64)
 --
--- Host: localhost    Database: nodeapi
+-- Host: localhost    
 -- ------------------------------------------------------
 -- Server version	8.0.37
 
