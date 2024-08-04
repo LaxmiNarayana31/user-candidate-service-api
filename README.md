@@ -123,5 +123,5 @@ The main service should be able to communicate with the public API microservice 
 
 
 ### Notes
-Ensure all required dependencies are installed as specified. br
+Ensure all required dependencies are installed as specified.
 If any issues arise during setup, check the environment variable configurations and database connections.
